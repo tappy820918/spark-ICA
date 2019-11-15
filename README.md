@@ -1,2 +1,3 @@
 # spark-ICA
-ICA implementation with Apache Spark
+
+This project is an ICA implementation with Apache Spark
